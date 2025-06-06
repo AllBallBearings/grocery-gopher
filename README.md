@@ -1,2 +1,3 @@
-# grocery-shopper
+# grocery-gopher
+
 Do Some Shoppin' Buuuuuuddy!
